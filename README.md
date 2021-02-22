@@ -1,5 +1,5 @@
 # BootHTML
-CLI for initializing a web project quickly. Made using NodeJS.
+CLI for initializing a web project quickly. This project was made for fun & personal use, but feel free to try it out! Made using NodeJS. 
 
 ## How to install
 To install this CLI:
